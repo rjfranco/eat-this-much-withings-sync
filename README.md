@@ -10,4 +10,4 @@ Standard rails process, requires postgresql 9.6.3
 - rails s
 
 ## Using
-If I come up with a publicaly hosted option, I'll list that here, but I don't know that I want to assume that responsibility. In the meantime, you could potentially setup a web service somewhere running the app, just be sure to set local environment values for ETM_SYNC_API_KEY and ETM_SYNC_API_SECRET from your own application registered at withings. ( Still haven't gotten to the ETM user values ... will list them here when I do )
+If I come up with a publicly hosted option, I'll list that here, but I don't know that I want to assume that responsibility. In the meantime, you could potentially setup a web service somewhere running the app, just be sure to set local environment values for ETM_SYNC_API_KEY and ETM_SYNC_API_SECRET from your own application registered at withings. ( Still haven't gotten to the ETM user values ... will list them here when I do )
